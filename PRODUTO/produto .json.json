@@ -1,0 +1,8 @@
+{
+  "produto": {
+    "nome": "Caderno Universitário",
+    "preço": 24.90,
+    "quantidade": 15,
+    "disponivel": true
+  }
+}

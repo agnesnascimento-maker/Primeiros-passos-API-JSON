@@ -1,0 +1,11 @@
+{
+  "filme favorito": {
+    "titulo": "Anne with an E",
+    "ano": 2017,
+    "diretor": "Moira Walley-Beckett",
+    "generos": [
+      "Drama",
+      "Família"
+    ]
+  }
+}
